@@ -1,2 +1,2 @@
 # B2CSamples
-Samples using 
+Samples using AD B2C Policies
